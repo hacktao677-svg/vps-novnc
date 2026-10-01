@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://technique-richardson-lessons-settings.trycloudflare.com/vnc.html
+URL       : https://klein-nuke-warning-scope.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-30 23:36:30
+Created   : 2026-10-01 04:57:57
 =======================================================
