@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://logged-hindu-reduces-edwards.trycloudflare.com/vnc.html
+URL       : https://platform-actor-collar-carrier.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-06 16:36:59
+Created   : 2026-10-06 23:41:49
 =======================================================
