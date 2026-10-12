@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://supervision-agent-actively-safari.trycloudflare.com/vnc.html
+URL       : https://neck-managed-staying-wash.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-12 05:06:58
+Created   : 2026-10-12 19:43:39
 =======================================================
