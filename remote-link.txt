@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://meetup-freebsd-garcia-ids.trycloudflare.com/vnc.html
+URL       : https://world-logo-screw-neon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-13 23:42:16
+Created   : 2026-10-14 04:13:52
 =======================================================
