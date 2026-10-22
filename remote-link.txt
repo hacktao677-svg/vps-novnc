@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bobby-sheet-doctor-anywhere.trycloudflare.com/vnc.html
+URL       : https://gis-managers-selected-vista.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 23:09:08
+Created   : 2026-10-22 04:04:53
 =======================================================
